@@ -12,4 +12,4 @@
 ## Hình ảnh kết quả chạy chương trình
 
 ### Giao diện màn hình đăng nhập
-![Login Screen](../../screenshots/man-hinh-dang-nhap.jpg)
+<img src="../../screenshots/man-hinh-dang-nhap.jpg" width = 200>
