@@ -13,3 +13,5 @@
 #### exercise-4.2-valid: Bài tập 4.2 valid sử dụng lại giao diện đăng nhập của bài tập trước và thêm chức năng kiểm tra dữ liệu đầu vào
 
 #### exercise-5.1: Bài tập 5.1 sử dụng state để tạo giao diện một danh sách các nút có màu. Khi ấn vào nút đó sẽ thay đổi màu nền tương ứng với nút
+
+#### excercise-6.1: Sử dụng lại giao diện bài thực hành buổi 2. Sau đó thêm valid theo yêu cầu
