@@ -14,4 +14,6 @@
 
 #### exercise-5.1: Bài tập 5.1 sử dụng state để tạo giao diện một danh sách các nút có màu. Khi ấn vào nút đó sẽ thay đổi màu nền tương ứng với nút
 
-#### excercise-6.1: Sử dụng lại giao diện bài thực hành buổi 2. Sau đó thêm valid theo yêu cầu
+#### exercise-6.1: Sử dụng lại giao diện bài thực hành buổi 2. Sau đó thêm valid theo yêu cầu
+
+#### exercise-8.1: Thực hành chuyển hướng giao diện từ trang đăng nhập sang trang Home
