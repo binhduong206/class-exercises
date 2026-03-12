@@ -17,3 +17,5 @@
 #### exercise-6.1: Sử dụng lại giao diện bài thực hành buổi 2. Sau đó thêm valid theo yêu cầu
 
 #### exercise-8.1: Thực hành chuyển hướng giao diện từ trang đăng nhập sang trang Home
+
+#### exercise-8.1 (12-3): Thực hành React Navigation + Context chuyển hướng giao diện đăng nhập
